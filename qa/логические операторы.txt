@@ -1,0 +1,10 @@
+and, or, not.
+
+>>> False and True
+False
+
+>>> 7 < 7 or True
+True
+
+>>> not 2 == 2
+False

@@ -1,0 +1,10 @@
+mydict={"a":1,"b":2,"c":3,"e":5}
+
+print(mydict.keys())
+--------------------
+dict_keys(["a", "b", "c", "e"])
+
+
+print(list(mydict))
+-------------------
+['a', 'b', 'c', 'e']

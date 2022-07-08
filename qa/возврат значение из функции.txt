@@ -1,0 +1,4 @@
+Ключевое слово return
+
+def sum(a, b):
+    return a + b

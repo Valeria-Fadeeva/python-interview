@@ -1,0 +1,13 @@
+nums=["one","two","three","four","five","six","seven"]
+s=" ".join(nums)
+s
+"one two three four five six seven"
+
+
+nums = [1,2,3,4]
+s = ""
+for i in nums:
+    s+=str(i)
+
+print(s)
+1234

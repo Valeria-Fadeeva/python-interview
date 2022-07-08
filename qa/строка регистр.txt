@@ -1,0 +1,8 @@
+"AyuShi".lower()
+"AyuShi".upper()
+"AyuShi".capitalize()
+"AyuShi".swapcase()
+
+"AyuShi".isupper()
+"AyuShi".islower()
+"AyuShi".istitle()

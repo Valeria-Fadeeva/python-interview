@@ -1,0 +1,7 @@
+Это операторы in и not in. Они показывают, является ли одно значение частью другого.
+
+>>> "me" in "disappointment"
+True
+
+>>> "us" not in "disappointment"
+True
